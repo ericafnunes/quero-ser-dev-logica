@@ -4,5 +4,8 @@
 
 ##### Complemento das questão de lógica da Lets Code.
 
-### 💾  Download
+### :floppy_disk: Download - Para clonar o repositório
+#### com a chave ssh:
+##### 1. Abra o seu terminal e clone o código com o comando
+    git@github.com:ericafnunes/quero-ser-dev-logica.git
 
